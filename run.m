@@ -4,7 +4,7 @@ clear;
 % addpath('utils');
 
 %% pre-calculated trajectories
-trajhandle = @traj_line;
+trajhandle = @trajectory;
 % trajhandle = @traj_helix;
 
 %% Trajectory generation with waypoints
